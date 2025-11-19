@@ -1,0 +1,17 @@
+{
+    "name": "Tether USD Bridged ZET .20",
+    "symbol": "USDT.z",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "USDT.z (ZeonTrust) is a stable, community-driven BEP20 token deployed on the BNB Smart Chain. Designed for fast, low-fee transactions, USDT.z aims to provide a reliable stablecoin solution for traders, DeFi participants, and the crypto community.",
+    "website": "https://zeontrust.net",
+    "explorer": "https://bscscan.com/token/0x061BFB5EAdc2dF9D528FfFAf3e1aCbC5bcF0aafF",
+    "status": "active",
+    "id": "0x061BFB5EAdc2dF9D528FfFAf3e1aCbC5bcF0aafF",
+    
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zeonusdt"
+        }
+    ]
+}
